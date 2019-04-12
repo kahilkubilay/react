@@ -87,7 +87,7 @@ Bir attribute'e JavaScript ifadesi yerleştirirken süslü parantezler arasına 
 
 >**Uyarı:**
 >
->JSX JavaScript'e HTML'den daha yakın olduğundan ReactDOM, HTML nitelik adları yerine `camelCase` adlandırma kuralını kullanır.
+>JSX JavaScript'e HTML'den daha yakın olduğundan ReactDOM, HTML nitelik adları yerine `mixedCase` adlandırma kuralını kullanır.
 >
 >Örneğin JSX'te `class` yerine `className`, `tabindex` yerine `tabIndex` kullanılır.
 
